@@ -1,0 +1,3 @@
+[submodule "app/MainModule"]
+	path = app/MainModule
+	url = https://github.com/bprasannakumar/MainModule.git
